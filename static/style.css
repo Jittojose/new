@@ -1,0 +1,13 @@
+.banner {
+     background-color:lightblue;
+     width:100%;
+     height:200px;
+     margin-bottom:50px;
+
+}
+
+.banner-text{
+text-align: center;
+line-height: 100vh;
+
+}
